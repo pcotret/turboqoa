@@ -17,6 +17,15 @@ $ ./decode
 Usage: ./decode <input.qoa> [<output.pcm>]
 ```
 
+## How to read QOA files ?
+The reference repository has a simple command line player: https://github.com/phoboslab/qoa
+```bash
+./qoaplay file.qoa
+```
+
+## Samples
+Voice samples can be found at: https://github.com/yaph/tts-samples
+
 ## Features
 
 * QOA de-/encoder
