@@ -23,7 +23,7 @@ The reference repository has a simple command line player: https://github.com/ph
 ./qoaplay file.qoa
 ```
 
-## Samples
+## Samples
 Voice samples can be found at: https://github.com/yaph/tts-samples
 
 ## Features
